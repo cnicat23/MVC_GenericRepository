@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVC_CRUD.Business",
+    "\\MVC_CRUD.Business\\Services",
+    "\\MVC_CRUD.Business\\Services\\Concretes"
+  ],
+  "SelectedNode": "\\MVC_CRUD.Business\\Services\\Concretes\\CategoryService.cs",
+  "PreviewInSolutionExplorer": false
+}
