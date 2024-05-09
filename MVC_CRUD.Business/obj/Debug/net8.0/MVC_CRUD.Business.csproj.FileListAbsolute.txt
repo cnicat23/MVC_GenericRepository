@@ -15,3 +15,4 @@ C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Business\obj\Debu
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Business\obj\Debug\net8.0\refint\MVC_CRUD.Business.dll
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Business\obj\Debug\net8.0\MVC_CRUD.Business.pdb
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Business\obj\Debug\net8.0\ref\MVC_CRUD.Business.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Business\obj\Debug\net8.0\MVC_CRUD.Business.sourcelink.json

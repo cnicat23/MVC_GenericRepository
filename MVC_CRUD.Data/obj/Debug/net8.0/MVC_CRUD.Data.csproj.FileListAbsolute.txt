@@ -15,3 +15,4 @@ C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Data\obj\Debug\ne
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Data\obj\Debug\net8.0\MVC_CRUD.Data.pdb
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Data\obj\Debug\net8.0\MVC_CRUD.Data.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Data\obj\Debug\net8.0\ref\MVC_CRUD.Data.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Data\obj\Debug\net8.0\MVC_CRUD.Data.sourcelink.json
