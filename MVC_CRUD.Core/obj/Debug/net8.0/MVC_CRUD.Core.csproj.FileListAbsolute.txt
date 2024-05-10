@@ -9,3 +9,4 @@ C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\ne
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\refint\MVC_CRUD.Core.dll
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.pdb
 C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\ref\MVC_CRUD.Core.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\MVC_CRUD\MVC_CRUD.Core\obj\Debug\net8.0\MVC_CRUD.Core.sourcelink.json

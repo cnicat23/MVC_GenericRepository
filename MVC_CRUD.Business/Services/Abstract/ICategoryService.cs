@@ -11,7 +11,7 @@ namespace MVC_CRUD.Business.Services.Abstract
     {
         Task AddCategoryAsync(Category category);
         void DeleteCategoryAsync(int id);
-        void UpdateCategoryAsync(int id, Category category);
+        void UpdateCategoryAsync(int id, Category newCategory);
         Category GetCategoryAsync(Func<Category, bool>? func = null);
         List<Category> GetAllCategoryAsync(Func<Category, bool>? func = null);
 

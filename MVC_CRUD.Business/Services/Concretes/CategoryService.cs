@@ -53,8 +53,6 @@ namespace MVC_CRUD.Business.Services.Concretes
                 existsCategory.Name = newCategory.Name;
                 _categoryRepository.Commit();
             }
-                
-
         }
     }
 }

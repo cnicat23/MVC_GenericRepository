@@ -44,6 +44,32 @@ namespace MVC_CRUD.Data.Migrations
                     b.ToTable("categories");
                 });
 
+            modelBuilder.Entity("MVC_CRUD.Core.Models.Feature", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Icon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("features");
+                });
+
             modelBuilder.Entity("MVC_CRUD.Core.Models.Product", b =>
                 {
                     b.Property<int>("Id")

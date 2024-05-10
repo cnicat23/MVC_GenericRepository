@@ -14,5 +14,6 @@ namespace MVC_CRUD.Data.DAL
         public DbSet<Product> products { get; set; }
         public DbSet<Category> categories { get; set; }
         public DbSet<Tag> tags { get; set; }
+        public DbSet<Feature> features { get; set; }
     }
 }
